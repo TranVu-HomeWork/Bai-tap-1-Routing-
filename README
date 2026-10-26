@@ -1,0 +1,15 @@
+# Báo cáo kết quả Test Routing Express
+
+Dưới đây là kết quả kiểm thử 4 route cơ bản thông qua Postman:
+
+### 1. Test GET /
+![Kết quả GET /](test1.png)
+
+### 2. Test GET /books
+![Kết quả GET /books](test2.png)
+
+### 3. Test POST /books
+![Kết quả POST /books](test3.png)
+
+### 4. Test GET /books/:id
+![Kết quả GET /books/:id](test4.png)
